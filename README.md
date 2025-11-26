@@ -2,7 +2,7 @@
 
 👨‍💻 **Rizwi Shaan**  
 🎓 *Student ID:* 24004260
-📚 *Course:* TDB 2043 
+📚 *Course:* TFB 2023
 
 ## Lab Tasks
 
